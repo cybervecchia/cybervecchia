@@ -1,6 +1,6 @@
    ### Olá, eu sou a Carol  👋
 <h1 align="center">Olá Eu sou a Carol.</h1>
-<h3 align="center">Aprendendo Analise de Dados, e apaixonada por Hardware.</h3>
+<h3 align="center">Aprendendo Analise de Dados e apaixonada por Hardware.</h3>
 
 - 🌱 Estou aprendendo sobre **Analise de Dados, Bublle e Redes de Computadores**
 
